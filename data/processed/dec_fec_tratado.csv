@@ -1,0 +1,573 @@
+﻿DscConjUndConsumidoras,AnoIndice,municipio,DEC,FEC,parcial
+ALEX. DE GUSMÃO,2023,capital,7.4,4.09,False
+ALEX. DE GUSMÃO,2024,capital,2.72,1.21,False
+ALEX. DE GUSMÃO,2025,capital,6.07,3.3,False
+ALEX. DE GUSMÃO,2026,capital,3.71,3.22,True
+ALPHAVILLE,2023,fora_da_capital,6.72,2.92,False
+ALPHAVILLE,2024,fora_da_capital,5.71,3.25,False
+ALPHAVILLE,2025,fora_da_capital,6.13,3.84,False
+ALPHAVILLE,2026,fora_da_capital,2.97,1.54,True
+ALTO DA BOA VISTA,2023,capital,7.82,2.42,False
+ALTO DA BOA VISTA,2024,capital,7.14,2.58,False
+ALTO DA BOA VISTA,2025,capital,7.02,3.66,False
+ALTO DA BOA VISTA,2026,capital,3.41,1.05,True
+ALVARENGA,2023,capital,9.61,5.64,False
+ALVARENGA,2024,capital,7.78,3.83,False
+ALVARENGA,2025,capital,9.41,6.37,False
+ALVARENGA,2026,capital,5.76,3.97,True
+AMERICANÓPOLIS,2023,capital,6.98,2.46,False
+AMERICANÓPOLIS,2024,capital,5.71,2.06,False
+AMERICANÓPOLIS,2025,capital,5.81,2.93,False
+AMERICANÓPOLIS,2026,capital,3.83,1.55,True
+ANASTACIO,2023,capital,7.58,4.26,False
+ANASTACIO,2024,capital,9.26,4.44,False
+ANASTACIO,2025,capital,6.85,3.11,False
+ANASTACIO,2026,capital,2.83,1.37,True
+ANCHIETA,2023,capital,6.11,3.14,False
+ANCHIETA,2024,capital,5.61,3.11,False
+ANCHIETA,2025,capital,4.4,2.4,False
+ANCHIETA,2026,capital,2.74,1.56,True
+ANHEMBI,2023,capital,3.7,1.2,False
+ANHEMBI,2024,capital,4.41,1.83,False
+ANHEMBI,2025,capital,4.81,1.91,False
+ANHEMBI,2026,capital,1.72,1.19,True
+AUGUSTA,2023,capital,0.78,0.13,False
+AUGUSTA,2024,capital,1.38,1.98,False
+AUGUSTA,2025,capital,2.2,0.32,False
+AUGUSTA,2026,capital,0.5,0.1,True
+AUTONOMISTAS,2023,capital,4.66,2.99,False
+AUTONOMISTAS,2024,capital,5.37,2.44,False
+AUTONOMISTAS,2025,capital,5.71,3.07,False
+AUTONOMISTAS,2026,capital,1.7,1.29,True
+BANDEIRANTES_RETICULADO,2023,capital,2.23,0.12,False
+BANDEIRANTES_RETICULADO,2024,capital,0.63,0.14,False
+BANDEIRANTES_RETICULADO,2025,capital,2.07,0.94,False
+BANDEIRANTES_RETICULADO,2026,capital,1.68,0.15,True
+BARRA FUNDA,2023,capital,3.85,1.45,False
+BARRA FUNDA,2024,capital,3.84,1.21,False
+BARRA FUNDA,2025,capital,4.18,1.79,False
+BARRA FUNDA,2026,capital,2.02,0.71,True
+BARTIRA,2023,capital,5.57,3.04,False
+BARTIRA,2024,capital,5.9,3.36,False
+BARTIRA,2025,capital,6.27,3.62,False
+BARTIRA,2026,capital,3.09,1.89,True
+BARUERI,2023,fora_da_capital,5.65,3.18,False
+BARUERI,2024,fora_da_capital,5.78,3.24,False
+BARUERI,2025,fora_da_capital,5.55,3.72,False
+BARUERI,2026,fora_da_capital,2.76,2.0,True
+BATISTINI,2023,capital,6.04,2.4,False
+BATISTINI,2024,capital,5.8,1.89,False
+BATISTINI,2025,capital,6.77,3.13,False
+BATISTINI,2026,capital,2.96,1.41,True
+BAVIERA,2023,capital,6.2,4.65,False
+BAVIERA,2024,capital,6.2,6.06,False
+BAVIERA,2025,capital,9.4,5.55,False
+BAVIERA,2026,capital,1.45,0.73,True
+BELA ALIANÇA,2023,capital,6.13,4.57,False
+BELA ALIANÇA,2024,capital,7.07,3.1,False
+BELA ALIANÇA,2025,capital,8.39,3.55,False
+BELA ALIANÇA,2026,capital,2.03,0.76,True
+BRASILÂNDIA,2023,capital,4.8,2.71,False
+BRASILÂNDIA,2024,capital,7.03,5.07,False
+BRASILÂNDIA,2025,capital,7.11,4.25,False
+BRASILÂNDIA,2026,capital,1.97,1.46,True
+BRIGADEIRO,2023,capital,1.53,0.21,False
+BRIGADEIRO,2024,capital,7.3,1.96,False
+BRIGADEIRO,2025,capital,1.15,0.81,False
+BRIGADEIRO,2026,capital,0.81,0.08,True
+BRÁS,2023,capital,5.35,1.92,False
+BRÁS,2024,capital,7.09,3.41,False
+BRÁS,2025,capital,6.33,2.93,False
+BRÁS,2026,capital,1.84,1.88,True
+BUENOS AIRES,2023,capital,4.86,2.84,False
+BUENOS AIRES,2024,capital,5.57,2.68,False
+BUENOS AIRES,2025,capital,5.84,3.43,False
+BUENOS AIRES,2026,capital,3.06,2.27,True
+BUTANTÃ,2023,capital,9.88,4.29,False
+BUTANTÃ,2024,capital,5.57,2.24,False
+BUTANTÃ,2025,capital,6.33,2.95,False
+BUTANTÃ,2026,capital,2.3,1.02,True
+CAMBUCI,2023,capital,11.18,3.32,False
+CAMBUCI,2024,capital,5.85,2.8,False
+CAMBUCI,2025,capital,5.29,2.8,False
+CAMBUCI,2026,capital,4.08,1.04,True
+CAMPESTRE,2023,capital,4.22,1.96,False
+CAMPESTRE,2024,capital,3.45,1.05,False
+CAMPESTRE,2025,capital,4.48,1.76,False
+CAMPESTRE,2026,capital,2.09,0.96,True
+CANAÃ,2023,capital,6.82,2.36,False
+CANAÃ,2024,capital,5.71,2.46,False
+CANAÃ,2025,capital,8.48,2.98,False
+CANAÃ,2026,capital,2.76,1.43,True
+CANINDÉ,2023,capital,6.83,3.44,False
+CANINDÉ,2024,capital,5.23,3.19,False
+CANINDÉ,2025,capital,5.8,3.66,False
+CANINDÉ,2026,capital,1.56,0.92,True
+CAPELA,2023,capital,6.77,2.47,False
+CAPELA,2024,capital,4.95,1.5,False
+CAPELA,2025,capital,3.79,1.89,False
+CAPELA,2026,capital,1.49,0.52,True
+CAPUAVA,2023,capital,5.5,2.79,False
+CAPUAVA,2024,capital,5.49,2.91,False
+CAPUAVA,2025,capital,4.03,1.87,False
+CAPUAVA,2026,capital,2.73,1.33,True
+CARAPICUIBA,2023,fora_da_capital,4.8,2.2,False
+CARAPICUIBA,2024,fora_da_capital,3.5,2.08,False
+CARAPICUIBA,2025,fora_da_capital,5.2,2.84,False
+CARAPICUIBA,2026,fora_da_capital,1.67,1.01,True
+CARRÃO,2023,capital,5.17,2.68,False
+CARRÃO,2024,capital,4.95,2.07,False
+CARRÃO,2025,capital,7.62,3.76,False
+CARRÃO,2026,capital,2.58,2.05,True
+CASA VERDE,2023,capital,5.55,2.53,False
+CASA VERDE,2024,capital,4.67,1.79,False
+CASA VERDE,2025,capital,5.85,2.33,False
+CASA VERDE,2026,capital,3.91,2.48,True
+CASTELO,2023,capital,7.69,3.5,False
+CASTELO,2024,capital,6.25,2.98,False
+CASTELO,2025,capital,4.93,2.58,False
+CASTELO,2026,capital,3.53,1.57,True
+CATUMBI,2023,capital,5.67,2.66,False
+CATUMBI,2024,capital,6.27,2.21,False
+CATUMBI,2025,capital,5.79,2.95,False
+CATUMBI,2026,capital,2.43,1.4,True
+CAUCAIA,2023,fora_da_capital,24.08,8.06,False
+CAUCAIA,2024,fora_da_capital,17.97,8.3,False
+CAUCAIA,2025,fora_da_capital,14.71,7.19,False
+CAUCAIA,2026,fora_da_capital,5.83,3.94,True
+CENTRO,2023,capital,2.1,0.22,False
+CENTRO,2024,capital,15.67,1.48,False
+CENTRO,2025,capital,3.26,0.38,False
+CENTRO,2026,capital,4.08,0.49,True
+CLEMENTINO,2023,capital,4.15,1.73,False
+CLEMENTINO,2024,capital,6.46,2.72,False
+CLEMENTINO,2025,capital,5.22,2.39,False
+CLEMENTINO,2026,capital,2.61,2.58,True
+CLÁUDIA,2023,capital,6.45,2.84,False
+CLÁUDIA,2024,capital,6.6,3.48,False
+CLÁUDIA,2025,capital,5.79,3.8,False
+CLÁUDIA,2026,capital,1.95,0.85,True
+COIMBRA,2023,capital,11.82,4.5,False
+COIMBRA,2024,capital,13.27,5.48,False
+COIMBRA,2025,capital,7.88,4.02,False
+COIMBRA,2026,capital,2.66,1.54,True
+COMANDANTE TAYLOR,2023,capital,5.97,2.16,False
+COMANDANTE TAYLOR,2024,capital,5.02,1.13,False
+COMANDANTE TAYLOR,2025,capital,6.16,3.13,False
+COMANDANTE TAYLOR,2026,capital,3.22,1.14,True
+CONGONHAS,2023,capital,5.65,2.21,False
+CONGONHAS,2024,capital,7.23,2.62,False
+CONGONHAS,2025,capital,6.34,1.94,False
+CONGONHAS,2026,capital,2.62,1.36,True
+CONTINENTAL,2023,capital,4.62,2.54,False
+CONTINENTAL,2024,capital,3.45,1.8,False
+CONTINENTAL,2025,capital,3.65,2.02,False
+CONTINENTAL,2026,capital,1.66,1.83,True
+COTIA,2023,fora_da_capital,9.77,4.92,False
+COTIA,2024,fora_da_capital,6.76,3.69,False
+COTIA,2025,fora_da_capital,9.81,5.17,False
+COTIA,2026,fora_da_capital,2.17,1.67,True
+CUPECÊ,2023,capital,6.49,3.81,False
+CUPECÊ,2024,capital,6.74,3.58,False
+CUPECÊ,2025,capital,7.16,5.85,False
+CUPECÊ,2026,capital,3.15,2.86,True
+DIADEMA,2023,fora_da_capital,5.77,2.33,False
+DIADEMA,2024,fora_da_capital,4.58,2.41,False
+DIADEMA,2025,fora_da_capital,4.95,2.21,False
+DIADEMA,2026,fora_da_capital,2.1,1.21,True
+EMBU,2023,fora_da_capital,5.24,2.86,False
+EMBU,2024,fora_da_capital,5.28,3.05,False
+EMBU,2025,fora_da_capital,7.41,4.25,False
+EMBU,2026,fora_da_capital,2.69,2.47,True
+EMBU GUAÇU,2023,fora_da_capital,11.81,6.91,False
+EMBU GUAÇU,2024,fora_da_capital,13.98,7.73,False
+EMBU GUAÇU,2025,fora_da_capital,11.57,5.16,False
+EMBU GUAÇU,2026,fora_da_capital,6.22,3.75,True
+ERMELINO MATARAZZO,2023,capital,5.56,2.34,False
+ERMELINO MATARAZZO,2024,capital,5.62,3.39,False
+ERMELINO MATARAZZO,2025,capital,5.91,2.91,False
+ERMELINO MATARAZZO,2026,capital,3.7,1.33,True
+ESPLANADA,2023,capital,10.48,5.93,False
+ESPLANADA,2024,capital,9.03,4.33,False
+ESPLANADA,2025,capital,6.82,3.14,False
+ESPLANADA,2026,capital,2.91,2.53,True
+GATO PRETO,2023,capital,8.12,4.93,False
+GATO PRETO,2024,capital,9.01,6.57,False
+GATO PRETO,2025,capital,8.93,6.47,False
+GATO PRETO,2026,capital,4.76,3.87,True
+GERMÂNIA,2023,capital,6.59,3.0,False
+GERMÂNIA,2024,capital,6.56,3.89,False
+GERMÂNIA,2025,capital,8.08,4.94,False
+GERMÂNIA,2026,capital,3.73,2.16,True
+GOMES CARDIM,2023,capital,9.57,3.19,False
+GOMES CARDIM,2024,capital,5.21,1.68,False
+GOMES CARDIM,2025,capital,3.34,1.74,False
+GOMES CARDIM,2026,capital,0.8,0.37,True
+GRANJA JULIETA,2023,capital,4.71,2.61,False
+GRANJA JULIETA,2024,capital,3.65,1.19,False
+GRANJA JULIETA,2025,capital,5.11,1.68,False
+GRANJA JULIETA,2026,capital,2.19,0.62,True
+GRANJA VIANA,2023,fora_da_capital,6.13,3.46,False
+GRANJA VIANA,2024,fora_da_capital,4.79,2.45,False
+GRANJA VIANA,2025,fora_da_capital,6.26,3.54,False
+GRANJA VIANA,2026,fora_da_capital,2.33,1.55,True
+GUAIANAZES,2023,capital,9.98,5.81,False
+GUAIANAZES,2024,capital,7.93,5.08,False
+GUAIANAZES,2025,capital,8.28,5.94,False
+GUAIANAZES,2026,capital,3.62,3.52,True
+GUARAPIRANGA,2023,capital,6.67,2.81,False
+GUARAPIRANGA,2024,capital,8.02,2.71,False
+GUARAPIRANGA,2025,capital,5.54,2.2,False
+GUARAPIRANGA,2026,capital,3.19,2.47,True
+GUMERCINDO,2023,capital,4.29,1.78,False
+GUMERCINDO,2024,capital,5.08,2.28,False
+GUMERCINDO,2025,capital,6.82,3.29,False
+GUMERCINDO,2026,capital,2.57,1.28,True
+HIPÓDROMO,2023,capital,5.81,2.87,False
+HIPÓDROMO,2024,capital,4.39,1.57,False
+HIPÓDROMO,2025,capital,8.03,3.71,False
+HIPÓDROMO,2026,capital,2.74,1.46,True
+IBIRAPUERA,2023,capital,2.97,1.09,False
+IBIRAPUERA,2024,capital,4.02,2.19,False
+IBIRAPUERA,2025,capital,4.97,1.82,False
+IBIRAPUERA,2026,capital,1.01,0.3,True
+ITAIM,2023,capital,5.44,1.7,False
+ITAIM,2024,capital,6.95,2.33,False
+ITAIM,2025,capital,5.46,1.77,False
+ITAIM,2026,capital,3.03,1.08,True
+ITAPECERICA DA SERRA,2023,fora_da_capital,18.75,10.27,False
+ITAPECERICA DA SERRA,2024,fora_da_capital,13.78,9.02,False
+ITAPECERICA DA SERRA,2025,fora_da_capital,17.23,9.6,False
+ITAPECERICA DA SERRA,2026,fora_da_capital,4.81,3.77,True
+ITAPEVI,2023,fora_da_capital,10.15,5.17,False
+ITAPEVI,2024,fora_da_capital,10.96,6.97,False
+ITAPEVI,2025,fora_da_capital,9.35,6.14,False
+ITAPEVI,2026,fora_da_capital,3.91,3.05,True
+ITAQUERA,2023,capital,6.29,3.18,False
+ITAQUERA,2024,capital,5.35,2.46,False
+ITAQUERA,2025,capital,6.02,3.37,False
+ITAQUERA,2026,capital,2.51,1.13,True
+ITAQUERUNA,2023,capital,6.83,4.58,False
+ITAQUERUNA,2024,capital,7.85,4.65,False
+ITAQUERUNA,2025,capital,7.62,4.71,False
+ITAQUERUNA,2026,capital,3.24,1.66,True
+JAGUARÉ,2023,capital,6.29,2.52,False
+JAGUARÉ,2024,capital,6.01,1.87,False
+JAGUARÉ,2025,capital,6.56,2.63,False
+JAGUARÉ,2026,capital,2.12,0.83,True
+JANDIRA,2023,fora_da_capital,5.31,2.74,False
+JANDIRA,2024,fora_da_capital,5.72,2.71,False
+JANDIRA,2025,fora_da_capital,5.03,3.16,False
+JANDIRA,2026,fora_da_capital,2.54,2.0,True
+JAÇANÃ,2023,capital,6.8,3.25,False
+JAÇANÃ,2024,capital,6.44,3.54,False
+JAÇANÃ,2025,capital,7.45,4.25,False
+JAÇANÃ,2026,capital,3.91,2.54,True
+JD. DA GLÓRIA,2023,capital,6.55,2.78,False
+JD. DA GLÓRIA,2024,capital,4.98,2.5,False
+JD. DA GLÓRIA,2025,capital,5.11,2.08,False
+JD. DA GLÓRIA,2026,capital,1.17,1.13,True
+JORDANÉSIA,2023,fora_da_capital,13.8,4.41,False
+JORDANÉSIA,2024,fora_da_capital,15.13,5.52,False
+JORDANÉSIA,2025,fora_da_capital,11.07,5.7,False
+JORDANÉSIA,2026,fora_da_capital,5.29,2.8,True
+JOÃO CLÍMACO,2023,capital,6.32,2.64,False
+JOÃO CLÍMACO,2024,capital,5.33,1.95,False
+JOÃO CLÍMACO,2025,capital,4.9,2.01,False
+JOÃO CLÍMACO,2026,capital,1.8,1.35,True
+JUQUITIBA,2023,fora_da_capital,31.66,9.01,False
+JUQUITIBA,2024,fora_da_capital,23.05,10.81,False
+JUQUITIBA,2025,fora_da_capital,32.33,13.51,False
+JUQUITIBA,2026,fora_da_capital,8.38,3.89,True
+JUSCELINO KUBITSCHEK,2023,capital,6.44,2.28,False
+JUSCELINO KUBITSCHEK,2024,capital,7.71,2.51,False
+JUSCELINO KUBITSCHEK,2025,capital,5.9,1.86,False
+JUSCELINO KUBITSCHEK,2026,capital,3.43,2.17,True
+LAPA,2023,capital,4.11,2.27,False
+LAPA,2024,capital,5.29,2.63,False
+LAPA,2025,capital,3.75,1.91,False
+LAPA,2026,capital,1.03,0.39,True
+LEOPOLDINA,2023,capital,7.4,4.13,False
+LEOPOLDINA,2024,capital,5.52,2.41,False
+LEOPOLDINA,2025,capital,5.4,1.95,False
+LEOPOLDINA,2026,capital,1.68,1.45,True
+LIMÃO,2023,capital,6.11,3.08,False
+LIMÃO,2024,capital,4.9,2.19,False
+LIMÃO,2025,capital,4.79,2.47,False
+LIMÃO,2026,capital,2.06,1.19,True
+LUBECA,2023,capital,7.19,3.94,False
+LUBECA,2024,capital,6.63,2.85,False
+LUBECA,2025,capital,7.27,5.21,False
+LUBECA,2026,capital,4.18,2.67,True
+MANDAQUI,2023,capital,4.95,2.07,False
+MANDAQUI,2024,capital,4.58,1.96,False
+MANDAQUI,2025,capital,4.15,2.0,False
+MANDAQUI,2026,capital,2.41,1.33,True
+MATEUS,2023,capital,6.51,3.74,False
+MATEUS,2024,capital,6.66,3.47,False
+MATEUS,2025,capital,6.38,4.93,False
+MATEUS,2026,capital,3.13,2.05,True
+MAUÁ,2023,fora_da_capital,6.49,3.04,False
+MAUÁ,2024,fora_da_capital,6.43,4.09,False
+MAUÁ,2025,fora_da_capital,6.29,4.12,False
+MAUÁ,2026,fora_da_capital,2.25,2.99,True
+MENINOS,2023,capital,6.71,2.48,False
+MENINOS,2024,capital,5.58,2.33,False
+MENINOS,2025,capital,4.57,1.96,False
+MENINOS,2026,capital,2.18,0.56,True
+MIGUEL PAULISTA,2023,capital,6.5,3.91,False
+MIGUEL PAULISTA,2024,capital,7.17,4.25,False
+MIGUEL PAULISTA,2025,capital,9.22,6.14,False
+MIGUEL PAULISTA,2026,capital,4.2,2.66,True
+MIGUEL REALE_RETICULADO,2023,capital,2.28,0.26,False
+MIGUEL REALE_RETICULADO,2024,capital,11.99,1.23,False
+MIGUEL REALE_RETICULADO,2025,capital,4.19,0.81,False
+MIGUEL REALE_RETICULADO,2026,capital,1.16,0.17,True
+MONTE AZUL,2023,capital,9.38,6.68,False
+MONTE AZUL,2024,capital,9.16,5.32,False
+MONTE AZUL,2025,capital,7.95,5.41,False
+MONTE AZUL,2026,capital,3.15,1.98,True
+MONTE BELO,2023,capital,4.0,1.96,False
+MONTE BELO,2024,capital,5.0,2.36,False
+MONTE BELO,2025,capital,5.22,2.61,False
+MONTE BELO,2026,capital,1.74,1.12,True
+MONTE SANTO,2023,capital,6.65,3.89,False
+MONTE SANTO,2024,capital,7.55,4.04,False
+MONTE SANTO,2025,capital,7.43,3.91,False
+MONTE SANTO,2026,capital,2.76,1.28,True
+MONUMENTO,2023,capital,3.74,1.49,False
+MONUMENTO,2024,capital,3.44,1.08,False
+MONUMENTO,2025,capital,3.8,1.63,False
+MONUMENTO,2026,capital,2.33,1.15,True
+MONÇÕES,2023,capital,4.08,1.29,False
+MONÇÕES,2024,capital,5.26,1.6,False
+MONÇÕES,2025,capital,6.81,1.88,False
+MONÇÕES,2026,capital,2.36,1.28,True
+MOOCA,2023,capital,4.24,1.49,False
+MOOCA,2024,capital,5.96,2.0,False
+MOOCA,2025,capital,4.8,1.41,False
+MOOCA,2026,capital,3.35,1.72,True
+MORUMBI,2023,capital,7.03,1.79,False
+MORUMBI,2024,capital,7.89,1.79,False
+MORUMBI,2025,capital,4.55,2.13,False
+MORUMBI,2026,capital,2.13,1.26,True
+NAÇÕES,2023,capital,6.37,2.46,False
+NAÇÕES,2024,capital,7.17,3.04,False
+NAÇÕES,2025,capital,6.17,3.65,False
+NAÇÕES,2026,capital,3.66,3.62,True
+NOVO BANDEIRANTES,2023,capital,5.9,1.93,False
+NOVO BANDEIRANTES,2024,capital,4.71,1.85,False
+NOVO BANDEIRANTES,2025,capital,3.76,1.54,False
+NOVO BANDEIRANTES,2026,capital,1.51,0.59,True
+NOVO MUNDO,2023,capital,5.62,1.51,False
+NOVO MUNDO,2024,capital,6.6,1.41,False
+NOVO MUNDO,2025,capital,6.79,2.08,False
+NOVO MUNDO,2026,capital,1.73,1.27,True
+ORATÓRIO,2023,capital,8.44,3.56,False
+ORATÓRIO,2024,capital,5.99,3.89,False
+ORATÓRIO,2025,capital,6.22,4.46,False
+ORATÓRIO,2026,capital,2.74,2.03,True
+OSASCO,2023,fora_da_capital,6.56,3.14,False
+OSASCO,2024,fora_da_capital,4.96,2.07,False
+OSASCO,2025,fora_da_capital,4.9,2.9,False
+OSASCO,2026,fora_da_capital,2.36,1.27,True
+PAINEIRAS,2023,capital,11.53,6.39,False
+PAINEIRAS,2024,capital,9.23,3.98,False
+PAINEIRAS,2025,capital,8.51,4.51,False
+PAINEIRAS,2026,capital,4.16,2.3,True
+PARELHEIROS,2023,capital,16.19,8.23,False
+PARELHEIROS,2024,capital,15.67,8.01,False
+PARELHEIROS,2025,capital,15.47,9.23,False
+PARELHEIROS,2026,capital,9.28,5.47,True
+PARNAÍBA,2023,fora_da_capital,11.06,4.47,False
+PARNAÍBA,2024,fora_da_capital,13.63,4.8,False
+PARNAÍBA,2025,fora_da_capital,11.12,5.01,False
+PARNAÍBA,2026,fora_da_capital,4.49,3.16,True
+PARQUE DOS LAGOS,2023,capital,4.73,3.1,False
+PARQUE DOS LAGOS,2024,capital,5.33,2.28,False
+PARQUE DOS LAGOS,2025,capital,10.3,3.71,False
+PARQUE DOS LAGOS,2026,capital,2.36,1.03,True
+PARQUE SÃO DOMINGOS,2023,capital,6.5,4.57,False
+PARQUE SÃO DOMINGOS,2024,capital,7.87,4.12,False
+PARQUE SÃO DOMINGOS,2025,capital,7.95,5.96,False
+PARQUE SÃO DOMINGOS,2026,capital,2.85,1.56,True
+PENHA NOVA,2023,capital,4.63,1.93,False
+PENHA NOVA,2024,capital,4.31,1.59,False
+PENHA NOVA,2025,capital,4.5,1.96,False
+PENHA NOVA,2026,capital,1.86,0.89,True
+PERI,2023,capital,7.56,3.37,False
+PERI,2024,capital,5.91,2.88,False
+PERI,2025,capital,5.88,2.51,False
+PERI,2026,capital,2.71,2.02,True
+PINHEIROS,2023,capital,7.66,5.66,False
+PINHEIROS,2024,capital,7.62,3.56,False
+PINHEIROS,2025,capital,6.05,2.55,False
+PINHEIROS,2026,capital,3.94,1.86,True
+PIRAPORINHA,2023,capital,3.51,1.69,False
+PIRAPORINHA,2024,capital,4.36,1.99,False
+PIRAPORINHA,2025,capital,4.39,2.13,False
+PIRAPORINHA,2026,capital,0.93,0.42,True
+PIRITUBA,2023,capital,5.83,3.46,False
+PIRITUBA,2024,capital,6.35,2.78,False
+PIRITUBA,2025,capital,5.64,3.51,False
+PIRITUBA,2026,capital,3.45,2.95,True
+PLANALTO PAULISTA,2023,capital,5.56,2.41,False
+PLANALTO PAULISTA,2024,capital,6.48,2.56,False
+PLANALTO PAULISTA,2025,capital,6.48,2.77,False
+PLANALTO PAULISTA,2026,capital,3.3,2.74,True
+RAPOSO TAVARES,2023,capital,16.28,17.31,False
+RAPOSO TAVARES,2024,capital,13.42,11.5,False
+RAPOSO TAVARES,2025,capital,14.49,18.73,False
+RAPOSO TAVARES,2026,capital,3.78,4.24,True
+REMÉDIOS,2023,capital,6.17,2.79,False
+REMÉDIOS,2024,capital,6.47,3.26,False
+REMÉDIOS,2025,capital,6.97,5.74,False
+REMÉDIOS,2026,capital,2.26,1.41,True
+RIBEIRÃO PIRES,2023,fora_da_capital,8.99,4.16,False
+RIBEIRÃO PIRES,2024,fora_da_capital,11.21,5.82,False
+RIBEIRÃO PIRES,2025,fora_da_capital,8.64,6.72,False
+RIBEIRÃO PIRES,2026,fora_da_capital,3.11,3.31,True
+RIO BONITO,2023,capital,7.72,5.11,False
+RIO BONITO,2024,capital,5.4,2.4,False
+RIO BONITO,2025,capital,9.93,7.19,False
+RIO BONITO,2026,capital,3.62,3.89,True
+RIO GRANDE,2023,capital,13.06,8.86,False
+RIO GRANDE,2024,capital,13.96,6.24,False
+RIO GRANDE,2025,capital,13.71,10.07,False
+RIO GRANDE,2026,capital,4.78,3.61,True
+ROSELÂNDIA,2023,capital,8.09,6.28,False
+ROSELÂNDIA,2024,capital,5.05,3.52,False
+ROSELÂNDIA,2025,capital,7.34,6.87,False
+ROSELÂNDIA,2026,capital,2.44,3.99,True
+SABARÁ,2023,capital,8.88,3.34,False
+SABARÁ,2024,capital,5.74,2.15,False
+SABARÁ,2025,capital,6.24,2.09,False
+SABARÁ,2026,capital,2.2,0.86,True
+SACOMÃ,2023,capital,4.37,1.53,False
+SACOMÃ,2024,capital,4.37,1.45,False
+SACOMÃ,2025,capital,4.61,2.16,False
+SACOMÃ,2026,capital,1.37,0.64,True
+SANTA MARIA,2023,capital,8.09,4.87,False
+SANTA MARIA,2024,capital,7.33,5.49,False
+SANTA MARIA,2025,capital,10.06,3.77,False
+SANTA MARIA,2026,capital,2.45,2.22,True
+SANTO AMARO,2023,capital,6.0,1.98,False
+SANTO AMARO,2024,capital,4.0,1.59,False
+SANTO AMARO,2025,capital,5.1,1.99,False
+SANTO AMARO,2026,capital,2.56,1.76,True
+SANTO ANDRÉ,2023,fora_da_capital,5.92,2.93,False
+SANTO ANDRÉ,2024,fora_da_capital,5.8,3.83,False
+SANTO ANDRÉ,2025,fora_da_capital,4.6,3.83,False
+SANTO ANDRÉ,2026,fora_da_capital,2.44,1.33,True
+SAÚDE,2023,capital,5.98,3.31,False
+SAÚDE,2024,capital,6.18,3.23,False
+SAÚDE,2025,capital,6.17,5.26,False
+SAÚDE,2026,capital,2.88,2.04,True
+SERTÃOZINHO,2023,capital,5.06,1.95,False
+SERTÃOZINHO,2024,capital,5.68,2.08,False
+SERTÃOZINHO,2025,capital,4.71,1.82,False
+SERTÃOZINHO,2026,capital,1.56,1.14,True
+SILVESTRE,2023,capital,6.97,2.77,False
+SILVESTRE,2024,capital,6.24,2.0,False
+SILVESTRE,2025,capital,5.19,2.12,False
+SILVESTRE,2026,capital,1.31,0.82,True
+SUMARÉ,2023,capital,5.99,2.73,False
+SUMARÉ,2024,capital,4.96,1.99,False
+SUMARÉ,2025,capital,4.58,1.67,False
+SUMARÉ,2026,capital,2.2,0.61,True
+SÃO BERNARDO DO CAMPO,2023,fora_da_capital,5.77,2.07,False
+SÃO BERNARDO DO CAMPO,2024,fora_da_capital,4.73,1.81,False
+SÃO BERNARDO DO CAMPO,2025,fora_da_capital,4.23,1.69,False
+SÃO BERNARDO DO CAMPO,2026,fora_da_capital,1.61,0.72,True
+TABOÃO DA SERRA,2023,fora_da_capital,7.72,4.61,False
+TABOÃO DA SERRA,2024,fora_da_capital,5.28,3.49,False
+TABOÃO DA SERRA,2025,fora_da_capital,8.06,4.98,False
+TABOÃO DA SERRA,2026,fora_da_capital,2.35,1.45,True
+TAIPAS,2023,capital,6.49,3.51,False
+TAIPAS,2024,capital,8.49,3.07,False
+TAIPAS,2025,capital,8.28,4.7,False
+TAIPAS,2026,capital,4.16,1.89,True
+TAMBORÉ,2023,capital,3.88,1.25,False
+TAMBORÉ,2024,capital,2.32,1.08,False
+TAMBORÉ,2025,capital,1.58,0.6,False
+TAMBORÉ,2026,capital,1.59,0.78,True
+TAMOIO,2023,capital,6.8,2.54,False
+TAMOIO,2024,capital,5.89,2.69,False
+TAMOIO,2025,capital,6.94,3.38,False
+TAMOIO,2026,capital,1.88,1.1,True
+TENENTE MARQUES,2023,capital,8.48,2.96,False
+TENENTE MARQUES,2024,capital,6.18,2.12,False
+TENENTE MARQUES,2025,capital,6.58,3.16,False
+TENENTE MARQUES,2026,capital,2.24,1.15,True
+TIRADENTES,2023,capital,5.5,3.06,False
+TIRADENTES,2024,capital,5.28,2.62,False
+TIRADENTES,2025,capital,8.38,4.47,False
+TIRADENTES,2026,capital,4.21,2.8,True
+TUCURUVI,2023,capital,6.15,2.59,False
+TUCURUVI,2024,capital,6.68,2.52,False
+TUCURUVI,2025,capital,5.95,2.43,False
+TUCURUVI,2026,capital,2.24,1.54,True
+TUIUTI,2023,capital,4.64,1.88,False
+TUIUTI,2024,capital,3.64,1.81,False
+TUIUTI,2025,capital,3.56,2.65,False
+TUIUTI,2026,capital,1.33,1.37,True
+UTINGA,2023,capital,5.57,3.25,False
+UTINGA,2024,capital,4.84,3.01,False
+UTINGA,2025,capital,5.32,4.27,False
+UTINGA,2026,capital,2.3,1.78,True
+VARGEM GRANDE,2023,capital,19.34,4.72,False
+VARGEM GRANDE,2024,capital,14.96,5.02,False
+VARGEM GRANDE,2025,capital,15.9,7.59,False
+VARGEM GRANDE,2026,capital,4.82,2.44,True
+VARGINHA,2023,capital,8.75,4.38,False
+VARGINHA,2024,capital,7.16,3.01,False
+VARGINHA,2025,capital,13.58,6.81,False
+VARGINHA,2026,capital,4.23,2.65,True
+VILA ALMEIDA,2023,capital,9.81,6.02,False
+VILA ALMEIDA,2024,capital,8.62,4.78,False
+VILA ALMEIDA,2025,capital,9.72,6.01,False
+VILA ALMEIDA,2026,capital,5.4,2.89,True
+VILA EMA,2023,capital,6.77,2.82,False
+VILA EMA,2024,capital,9.66,4.12,False
+VILA EMA,2025,capital,9.62,4.8,False
+VILA EMA,2026,capital,3.17,1.69,True
+VILA FORMOSA,2023,capital,5.16,1.95,False
+VILA FORMOSA,2024,capital,7.09,3.35,False
+VILA FORMOSA,2025,capital,5.95,3.59,False
+VILA FORMOSA,2026,capital,2.53,1.86,True
+VILA GUILHERME,2023,capital,6.19,1.86,False
+VILA GUILHERME,2024,capital,4.11,1.3,False
+VILA GUILHERME,2025,capital,4.64,1.56,False
+VILA GUILHERME,2026,capital,3.63,2.24,True
+VILA MARIANA,2023,capital,2.7,1.41,False
+VILA MARIANA,2024,capital,3.58,1.49,False
+VILA MARIANA,2025,capital,4.12,1.37,False
+VILA MARIANA,2026,capital,1.13,0.6,True
+VILA MEDEIROS,2023,capital,6.17,3.23,False
+VILA MEDEIROS,2024,capital,6.03,3.55,False
+VILA MEDEIROS,2025,capital,6.22,3.89,False
+VILA MEDEIROS,2026,capital,2.88,2.16,True
+VILA PAULA,2023,capital,5.61,1.67,False
+VILA PAULA,2024,capital,4.14,1.24,False
+VILA PAULA,2025,capital,3.69,1.45,False
+VILA PAULA,2026,capital,0.75,0.19,True
+VILA PAULICÉIA,2023,capital,6.31,5.06,False
+VILA PAULICÉIA,2024,capital,7.83,3.62,False
+VILA PAULICÉIA,2025,capital,6.19,4.07,False
+VILA PAULICÉIA,2026,capital,2.91,2.98,True
+VILA PROSPERIDADE,2023,capital,5.47,2.65,False
+VILA PROSPERIDADE,2024,capital,6.41,2.28,False
+VILA PROSPERIDADE,2025,capital,5.08,3.23,False
+VILA PROSPERIDADE,2026,capital,3.52,1.74,True
+VILA TALARICO,2023,capital,6.59,3.67,False
+VILA TALARICO,2024,capital,6.35,3.79,False
+VILA TALARICO,2025,capital,5.71,4.63,False
+VILA TALARICO,2026,capital,3.41,3.1,True
+VITÓRIA,2023,capital,6.61,3.0,False
+VITÓRIA,2024,capital,7.63,2.55,False
+VITÓRIA,2025,capital,5.84,2.22,False
+VITÓRIA,2026,capital,1.87,1.37,True
+ÁGUA BRANCA,2023,capital,4.0,1.75,False
+ÁGUA BRANCA,2024,capital,2.82,1.55,False
+ÁGUA BRANCA,2025,capital,3.97,1.62,False
+ÁGUA BRANCA,2026,capital,0.87,0.43,True
